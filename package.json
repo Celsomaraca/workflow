@@ -1,0 +1,21 @@
+{
+  "name": "workflow",
+  "version": "1.0.0",
+  "description": "Atividade prática do módulo 4 curso bootstrap",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "curso",
+    "bootstrap",
+    "modulo04",
+    "workflow"
+  ],
+  "author": "Celso",
+  "license": "ISC",
+  "devDependencies": {
+    "del": "^3.0.0",
+    "gulp": "^3.9.1"
+  }
+}
